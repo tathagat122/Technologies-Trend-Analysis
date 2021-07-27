@@ -4,9 +4,9 @@ A global IT and business consulting services firm that is known for their expert
  
 The orgaization identify insights and trends that may include the following:
 
-  What are the top programming languages in demand?
-  What are the top database skills in demand?
-  What are the popular IDEs?
+  1. What are the top programming languages in demand?
+  2. What are the top database skills in demand?
+  3. What are the popular IDEs?
   
 The analysis is perfomed on IBM cognos analytics in IBM cloud
 
